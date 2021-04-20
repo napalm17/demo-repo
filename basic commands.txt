@@ -1,0 +1,3 @@
+- git clone "ssh url here":   Clones the github repo to a local folder.
+- git status:   Shows files that are modified but not saved
+- git add . : Track changes made to all files
